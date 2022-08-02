@@ -11,4 +11,4 @@ hello shiye! hello git!
 hello shiye! hello git!
 hello shiye! hello git!
 hello shiye! hello git!
-hello shiye! hello git!
+hello shiye! hello git! hot-fix test
